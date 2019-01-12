@@ -1,0 +1,34 @@
+I-16 type 24
+MiG-3 series 24
+Il-2 model of 1941
+Pe-2 series 35
+Bf 109 E-7
+Bf 109 F-2
+Bf 110 E-2
+Ju 88 A-4
+LaGG-3 series 29
+Yak-1 series 69
+Il-2 model of 1942
+Pe-2 series 87
+Bf 109 F-4
+Bf 109 G-2
+Ju 87 D-3
+He 111 H-6
+Yak-7B series 36
+P-39L-1
+Il-2 model of 1943
+A-20B
+Bf 109 G-4
+Fw 190 A-5
+Bf 110 G-2
+He 111 H-16
+La-5 series 8
+La-5FN series 2
+Yak-1(b) series 127
+P-40E-1
+Supermarine Spitfire Mk.VB
+Bf 109 G-6
+Fw 190 A-3
+MC.202 series VIII
+Hs 129 B-2
+Ju 52/3m g4e

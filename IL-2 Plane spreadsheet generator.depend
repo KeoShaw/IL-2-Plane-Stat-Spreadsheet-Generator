@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523783884 source:c:\users\keo\desktop\stalindata slurper\stalindata slurper\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"Vector.h"
+
+1523780245 source:c:\users\keo\desktop\stalindata slurper\stalindata slurper\vector.h
+
+1523780245 c:\users\keo\desktop\stalindata slurper\stalindata slurper\vector.h
+
