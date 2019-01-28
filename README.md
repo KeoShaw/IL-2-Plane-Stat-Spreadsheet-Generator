@@ -9,6 +9,8 @@ Small Project to create a spreadsheet of aircraft statistics from the IL-2 Forum
 
 -Not guaranteed to work on Linux, or anything other than Windows
 
+-Alternatively, you may be able to open the .cbp and easily compile it with codeblocks (however I am unsure if this will still work)
+
 ## Installation/Compilation/Use
 
 1. Download/clone repository into whichever directory you require
