@@ -2,8 +2,11 @@
 Small Project to create a spreadsheet of aircraft statistics from the IL-2 Forum HTML.
 
 ## Requirements
+
 -GNU GCC/G++ compiler
+
 -If running straight from bin\debug, just an x86 Windows machine.
+
 -Not guaranteed to work on Linux, or anything other than Windows
 
 ## Installation/Compilation/Use
